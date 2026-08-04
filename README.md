@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
