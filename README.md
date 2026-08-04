@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
