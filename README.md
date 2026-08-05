@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0724-find-pivot-index) |
 ## Two Pointers
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Lucky-939/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
