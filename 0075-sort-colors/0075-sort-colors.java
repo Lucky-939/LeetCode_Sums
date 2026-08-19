@@ -6,22 +6,21 @@ class Solution {
 
         while(mid <= high){
             if(nums[mid] == 0){
-                swap(nums, low, mid);
+                swap(nums, mid, low);
                 low++;
                 mid++;
-            }
-            else if(nums[mid] == 1){
-                mid ++;
+            }else if(nums[mid] == 1){
+                mid++;
             }
             else{
-                swap(nums, high, mid);
+                swap(nums, mid, high);
                 high--;
             }
-        }  
+        }
     }
-    private void swap(int[] nums, int i, int j){
+    public void swap(int[] nums, int i, int j){
             int temp = nums[i];
             nums[i] = nums[j];
             nums[j] = temp;
-        } 
+        }
 }
