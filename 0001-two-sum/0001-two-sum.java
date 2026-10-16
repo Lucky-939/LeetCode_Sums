@@ -3,14 +3,13 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int i=0 ; i<nums.length ; i++){
-            int sum = target - nums[i];
+            int val = target - nums[i];
 
-            if(map.containsKey(sum)){
-                return new int[] {map.get(sum), i};
+            if(map.containsKey(val)){
+                return new int[]{i,map.get(val)};
             }
-
-            map.put(nums[i], i);
+            map.put(nums[i],i);
         }
-        return new int[] {};
+        return new int[]{};
     }
 }
